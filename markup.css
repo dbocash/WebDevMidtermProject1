@@ -1,0 +1,75 @@
+html {
+	font-size: 14px;
+	font-family: sans-serif;
+	background-color: #fefbd8;
+	}
+
+h1 {
+	min-height: 1rem;
+	font size: 2rem;
+	font-family: sans-serif;
+	line-height: 1.3;
+	margin: 2rem;
+	font-weight: bold;
+	padding: 0em;
+	color: darkblue;}
+h4.header{
+	border:1px solid;
+	padding: 10px;
+	box-shadow: 5px 10px lightblue;
+		}
+
+p{
+	display: block;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;}
+div {
+	display: block;
+	margin-block-end: 1em;
+	margin-block-end: 1em;}
+
+img {
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 40%;}
+
+div.activities{
+	background-color:lightblue;
+	}
+
+p.description{
+	margin-left: auto;
+	margin-right:auto;
+	width: 300px;
+	border: 15px solid lightblue;
+	padding: 50px;
+	margin: 20px;
+	}
+li.name {
+	font-family:Arial, Helvetica, sans-serif;
+	display:block;
+	margin-block-end:2em;
+	font-size:large;
+	font-weight:bold;
+	}
+li.name:link{
+	color:lightblue;}
+li.name:hover{
+	text-color:darkred;
+	}
+li.name:visited {
+	text-color:lightblue;}
+li.name:active{
+	text-color:yellow;}
+
+
+
+
+
+
+
+
+
